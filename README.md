@@ -2,5 +2,4 @@
 - 👻 This is my official Accenture GitHub account, no codes/ repositories will be available beyond Accenture.
 - 👨‍💻 I code in Java, Python, GO.
 - 🌱 I’m currently learning .NET.
-- 🎯 Feel free to reach me on [AyngaranKrishnamurthy]([url](https://github.com/AyngaranKrishnamurthy)https://github.com/AyngaranKrishnamurthy)
-  
+- 🎯 Feel free to reach me on https://github.com/AyngaranKrishnamurthy.
